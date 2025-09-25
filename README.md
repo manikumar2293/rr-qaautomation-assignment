@@ -46,22 +46,22 @@ Purpose: Ensure filtering, pagination, and data displayed on the website match t
 
 - Pagination may fail on the last few pages
 
-## Project Structure
+## Project Structure: RR_QA_AUTOMATION
 
-## RR_QA_AUTOMATION/
-├─ docs/
-│  ├─ Test_Plan.docx
-│  ├─ Test_Strategy.docx
-│  ├─ Test_Cases.xlsx
-│  └─ Test_Scenarios.docx
-├─ movies.json                  # Sample API response data
-├─ README.md                     # Project documentation
-├─ requirements.txt              # Python dependencies
-├─ movies_test.log               # Execution logs
-├─ report.html                   # Pytest HTML test report
-└─ test_suite/
-   ├─ test_api.py                # API tests
-   └─ test_ui.py                 # UI Selenium tests
+RR_QA_AUTOMATION/
+├── docs/
+│   ├── Test_Plan.docx
+│   ├── Test_Strategy.docx
+│   ├── Test_Cases.xlsx
+│   └── Test_Scenarios.docx
+├── movies.json                  # Sample API response data
+├── README.md                     # Project documentation
+├── requirements.txt              # Python dependencies
+├── movies_test.log               # Execution logs
+├── report.html                   # Pytest HTML test report
+└── test_suite/
+    ├── test_api.py               # API tests
+    └── test_ui.py                # UI Selenium tests
 
 
 ## Setup Instructions
