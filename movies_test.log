@@ -14,7 +14,7 @@
 2025-09-25 21:04:18,124 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
 2025-09-25 21:04:18,791 [INFO] Driver downloading response is 200
 2025-09-25 21:04:32,131 [INFO] Get LATEST chromedriver version for google-chrome
-2025-09-25 21:04:34,776 [INFO] Driver has been saved in cache [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-09-25 21:04:34,776 [INFO] Driver has been saved in cache [C:\Users\MANIKANDAN\.wdm\drivers\chromedriver\win64\140.0.7339.207]
 2025-09-25 21:04:39,462 [INFO] Opening TMDb home page
 2025-09-25 21:04:43,882 [INFO] Testing Popular category UI
 2025-09-25 21:04:48,369 [INFO] UI titles found: []
@@ -45,7 +45,7 @@
 2025-09-25 22:10:21,931 [INFO] ====== WebDriver manager ======
 2025-09-25 22:10:23,921 [INFO] Get LATEST chromedriver version for google-chrome
 2025-09-25 22:10:24,378 [INFO] Get LATEST chromedriver version for google-chrome
-2025-09-25 22:10:24,785 [INFO] Driver [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-25 22:10:24,785 [INFO] Driver [C:\Users\MANIKANDAN\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
 2025-09-25 22:10:26,611 [INFO] Opening TMDb home page
 2025-09-25 22:10:29,714 [INFO] Testing Popular category UI
 2025-09-25 22:10:33,809 [INFO] UI titles found: []
@@ -58,7 +58,7 @@
 2025-09-25 22:12:40,720 [INFO] ====== WebDriver manager ======
 2025-09-25 22:12:41,723 [INFO] Get LATEST chromedriver version for google-chrome
 2025-09-25 22:12:42,100 [INFO] Get LATEST chromedriver version for google-chrome
-2025-09-25 22:12:42,410 [INFO] Driver [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-25 22:12:42,410 [INFO] Driver [C:\Users\MANIKANDAN\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
 2025-09-25 22:12:43,500 [INFO] Opening website: https://tmdb-discover.surge.sh/, attempt 1
 2025-09-25 22:12:55,790 [WARNING] Page load timeout. Retrying...
 2025-09-25 22:12:57,791 [INFO] Opening website: https://tmdb-discover.surge.sh/, attempt 2
@@ -68,7 +68,7 @@
 2025-09-25 22:14:01,640 [INFO] ====== WebDriver manager ======
 2025-09-25 22:14:02,687 [INFO] Get LATEST chromedriver version for google-chrome
 2025-09-25 22:14:02,869 [INFO] Get LATEST chromedriver version for google-chrome
-2025-09-25 22:14:03,043 [INFO] Driver [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
+2025-09-25 22:14:03,043 [INFO] Driver [C:\Users\MANIKANDAN\.wdm\drivers\chromedriver\win64\140.0.7339.207\chromedriver-win32/chromedriver.exe] found in cache
 2025-09-25 22:14:04,236 [INFO] Opening website: https://tmdb-discover.surge.sh/, attempt 1
 2025-09-25 22:14:17,028 [WARNING] Page load timeout. Retrying...
 2025-09-25 22:14:19,029 [INFO] Opening website: https://tmdb-discover.surge.sh/, attempt 2
