@@ -1,6 +1,6 @@
 ## TMDB QA Automation Assignment
 
-## Repository: rr-qaautomation-assignment(https://github.com/manikumar2293/rr-qaautomation-assignment.git)
+## Repository: rr-qaautomation-assignment(https://github.com/manikumar2293/rr-qaautomation-assignment/tree/main)
 
 Demo Website: TMDB Discover(https://tmdb-discover.surge.sh/)
 
@@ -67,7 +67,7 @@ RR_QA_AUTOMATION/
 ## Setup Instructions
 
 1. ## Clone the repository
-   git clone https://github.com/yourusername/rr-qaautomation-assignment.git
+   git clone https://github.com/manikumar2293/rr-qaautomation-assignment/tree/main
    cd rr-qaautomation-assignment
 
 2. ## Create virtual environment
