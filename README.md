@@ -18,35 +18,33 @@ Documentation: Includes test plan, strategy, test cases (Excel), and scenarios i
 
 Purpose: Ensure filtering, pagination, and data displayed on the website match the API responses and meet functional requirements.
 
-Features Covered
+## Features Covered - Filtering Options
 
-Filtering Options
+- Categories: Popular, Trending, Newest, Top Rated
 
-Categories: Popular, Trending, Newest, Top Rated
+- Titles
 
-Titles
+- Type: Movies or TV Shows
 
-Type: Movies or TV Shows
+- Year of Release
 
-Year of Release
+- Rating
 
-Rating
+- Genre
 
-Genre
+- Pagination
 
-Pagination
+- API Validation
 
-API Validation
+- Status codes
 
-Status codes
+- JSON structure and data integrity
 
-JSON structure and data integrity
+- Known Demo Issues (for negative testing)
 
-Known Demo Issues (for negative testing)
+- Refreshing/accessing the page via slugs may fail (e.g., /popular)
 
-Refreshing/accessing the page via slugs may fail (e.g., /popular)
-
-Pagination may fail on the last few pages
+- Pagination may fail on the last few pages
 
 ## Project Structure
 
@@ -66,23 +64,23 @@ Pagination may fail on the last few pages
    └─ test_ui.py                 # UI Selenium tests
 
 
-##Setup Instructions
+## Setup Instructions
 
-1. Clone the repository
+1. ## Clone the repository
    git clone https://github.com/yourusername/rr-qaautomation-assignment.git
    cd rr-qaautomation-assignment
 
-2. Create virtual environment
+2. ## Create virtual environment
    python -m venv .venv
    .\.venv\Scripts\activate   # Windows
 
-3. Install dependencies
+3. ## Install dependencies
    pip install -r requirements.txt
 
-4. Ensure Chrome Browser is installed (for Selenium WebDriver tests)
+4. ## Ensure Chrome Browser is installed (for Selenium WebDriver tests)
 
-##How to Run Tests
-##UI Tests
+## How to Run Tests
+## UI Tests
 
 pytest test_suite/test_ui.py --html=ui_report.html --self-contained-html
 
