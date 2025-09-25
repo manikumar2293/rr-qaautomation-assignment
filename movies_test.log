@@ -14,7 +14,7 @@
 2025-09-25 21:04:18,124 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
 2025-09-25 21:04:18,791 [INFO] Driver downloading response is 200
 2025-09-25 21:04:32,131 [INFO] Get LATEST chromedriver version for google-chrome
-2025-09-25 21:04:34,776 [INFO] Driver has been saved in cache [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-09-25 21:04:34,776 [INFO] Driver has been saved in cache [C:\Users\MANI\.wdm\drivers\chromedriver\win64\140.0.7339.207]
 2025-09-25 21:04:39,462 [INFO] Opening TMDb home page
 2025-09-25 21:04:43,882 [INFO] Testing Popular category UI
 2025-09-25 21:04:48,369 [INFO] UI titles found: []
