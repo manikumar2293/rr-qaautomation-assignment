@@ -1,0 +1,17 @@
+# Test framework
+pytest==8.3.3
+pytest-html==4.1.1
+pytest-xdist==3.2.1         # optional: parallel test execution
+
+# Browser automation
+selenium>=4.14.0
+webdriver-manager>=3.9.1
+
+# HTTP / API support
+requests==2.32.0
+
+# JSON handling (standard lib included, but requests also uses it)
+# logging (standard lib included)
+
+# Optional utilities
+python-dotenv==1.1.0        # for loading environment variables, e.g., TMDB_API_KEY

@@ -1,0 +1,26 @@
+2025-09-25 21:04:14,580 [INFO] Checking movies.json loaded
+2025-09-25 21:04:14,587 [INFO] Movies from 2023: 0
+2025-09-25 21:04:14,592 [INFO] Low rated movies: 20
+2025-09-25 21:04:14,595 [INFO] Animation movies: 20
+2025-09-25 21:04:14,597 [INFO] Page 1 items: 5, Page 2 items: 5
+2025-09-25 21:04:14,600 [INFO] Invalid page items: 0
+2025-09-25 21:04:14,603 [INFO] ====== WebDriver manager ======
+2025-09-25 21:04:16,341 [INFO] Get LATEST chromedriver version for google-chrome
+2025-09-25 21:04:17,062 [INFO] Get LATEST chromedriver version for google-chrome
+2025-09-25 21:04:17,325 [INFO] There is no [win64] chromedriver "140.0.7339.207" for browser google-chrome "140.0.7339" in cache
+2025-09-25 21:04:17,327 [INFO] Get LATEST chromedriver version for google-chrome
+2025-09-25 21:04:18,120 [INFO] WebDriver version 140.0.7339.207 selected
+2025-09-25 21:04:18,124 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-09-25 21:04:18,124 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/140.0.7339.207/win32/chromedriver-win32.zip
+2025-09-25 21:04:18,791 [INFO] Driver downloading response is 200
+2025-09-25 21:04:32,131 [INFO] Get LATEST chromedriver version for google-chrome
+2025-09-25 21:04:34,776 [INFO] Driver has been saved in cache [C:\Users\AKASH\.wdm\drivers\chromedriver\win64\140.0.7339.207]
+2025-09-25 21:04:39,462 [INFO] Opening TMDb home page
+2025-09-25 21:04:43,882 [INFO] Testing Popular category UI
+2025-09-25 21:04:48,369 [INFO] UI titles found: []
+2025-09-25 21:04:48,370 [INFO] API titles: ['Hocus Pocus, Alfie Atkins!', "Gabby's Dollhouse: The Movie", 'Zootopia 2', 'The Reef 2: High Tide', 'I Was a Child of Holocaust Survivors']
+2025-09-25 21:04:48,525 [INFO] Testing slug refresh negative scenario
+2025-09-25 21:04:52,254 [INFO] Titles after refresh: []
+2025-09-25 21:04:52,254 [WARNING] Known demo issue: page may not load fully on refresh: assert 0 > 0
+ +  where 0 = len([])
+2025-09-25 21:04:52,266 [INFO] Testing UI pagination
